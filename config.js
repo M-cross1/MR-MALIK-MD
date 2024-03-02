@@ -7,17 +7,17 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['923494757886', 'Nasrullah', true], 
+  ['2349042566473','༆𝑲𝑰𝑵𝑮 𝑴-𝑪𝑹𝑶𝑺𝑺༆', true], 
   [''] 
 ] //Number of owners
-global.pairingNumber = "923494757886" //put your bot number here
+global.pairingNumber = "2349042566473" //put your bot number here
 /*============== CHATGPT ==============*/
 global.openAiapi = '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'   // Get you Api-key from 'https://platform.openai.com/account/api-keys'
 global.org = 'org-hE49SehUQEPAGJAy20yr4Om9'   // Get you Org-Key from 'https://platform.openai.com/account/org-settings' 
 //*============= ==============*/
-global.mods = ['923494757886','923124442554'] 
-global.prems = ['923124442554', '923494757886']
-global.allowed = ['923124442554', '923494757886']
+global.mods = ['2349042566473'] 
+global.prems = ['2349042566473']
+global.allowed = ['2349042566473']
 global.keysZens = ['LuOlangNgentot', 'c2459db922', '37CC845916', '6fb0eff124', 'hdiiofficial', 'fiktod', 'BF39D349845E', '675e34de8a', '0b917b905e6f'];
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())];
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63'];
@@ -61,11 +61,11 @@ global.APIKeys = {
 };
 
 // Sticker WM
-global.botname = 'Mr-Malik'
+global.botname = '༆𝗞𝗜𝗡𝗚 𝗠-𝗖𝗥𝗢𝗦𝗦༆'
 global.premium = 'true'
-global.packname = 'Mr-Malik' 
-global.author = '@Malik-Experts' 
-global.menuvid = ''
+global.packname = '𝗠𝗖𝗥𝗢𝗦𝗦-𝗠' 
+global.author = 'ᵏⁱⁿᵍ ᵐ-ᶜʳᵒˢˢ' 
+global.menuvid = 'https://telegra.ph/file/47519146526d06b608990.mp4'
 global.igfg = '' 
 global.dygp = ''
 global.fgsc = '' 
@@ -75,13 +75,13 @@ global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg'
 global.thumb = fs.readFileSync('./Assets/malik.jpeg')
 
 
-global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '*⌛ _NIGGA CALM UR ASS DOWN NAH, U SHA SEE SAY E DEY LOAD🌚..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
 global.error = '❌' 
 global.xmoji = '🔥' 
-global.footerTXT = `Mr-malik • : +923494757886`
+global.footerTXT = `KING M-CROSS • : +2349042566473`
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
 global.ddocx = 'application/vnd.openxmlformats-officedocument.wordprocessingml.document'
 global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
@@ -91,7 +91,7 @@ global.djson = 'application/json'
 global.mlc = '📃'
 global.sdc = '🎶'
 global.dmenut = 'ଓ═┅═━–〈' //top
-global.dmenub = '┊🇵🇰' //body
+global.dmenub = '┊🤑' //body
 global.dmenub2 = '┊' //body for info cmd on Default menu
 global.dmenuf = '┗––––––––––✦' //footer
 
@@ -99,7 +99,7 @@ global.dmenuf = '┗––––––––––✦' //footer
 global.dashmenu = '┅━━━═┅═❏ *Dᴀꜱʜʙᴏᴀʀᴅ* ❏═┅═━━━┅'
 global.cmenut = '❏––––––『'                       //top
 global.cmenuh = '』––––––'                        //header
-global.cmenub = '┊🔖'                            //body
+global.cmenub = '┊💎'                            //body
 global.cmenuf = '┗━═┅═━––––––\n'                //footer
 global.cmenua = '\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕\n     ' //after
 global.pmenus = '┊'                              //pembatas menu selector
@@ -111,7 +111,7 @@ global.lolm = 'Ⓛ' //LOGO LIMIT/FREE ON MENU.JS
 global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 global.multiplier = 69 
-global.maxwarn = '3' // máxima advertencias
+global.maxwarn = '2' // máxima advertencias
 
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => {
